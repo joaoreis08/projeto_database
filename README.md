@@ -5,10 +5,10 @@ Este projeto consiste em um dashboard de visualização de dados de vendas, dese
 # Descrição
 O projeto foi criado para visualizar KPIs de vendas, gerar relatórios analíticos e permitir exploração de dados através de consultas OLAP. As principais funcionalidades incluem:
 
-# KPIs de Vendas: Total de vendas, ticket médio e número de clientes únicos.
-# Relatórios Analíticos: Gráficos de vendas por categoria de produto e localização.
-# Consultas OLAP: Drill-down de vendas por tempo.
-# Visualização Interativa: Utilizando Streamlit para interação em tempo real.
+- KPIs de Vendas: Total de vendas, ticket médio e número de clientes únicos.
+- Relatórios Analíticos: Gráficos de vendas por categoria de produto e localização.
+- Consultas OLAP: Drill-down de vendas por tempo.
+- Visualização Interativa: Utilizando Streamlit para interação em tempo real.
 
 # Estrutura do Projeto
 
